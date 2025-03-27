@@ -2,7 +2,7 @@
 
 Привет! 👋<br>Меня зовут Давид, я JavaScript-разработчик из 🚩🇷🇺 России.<br><br>Обо мне<br>✨ Пишу код и иногда баги с 2023 года<br>📚 Сейчас учу Python и прокачиваю навыки в backend-разработке<br>🎯 Цели: стать сильным full-stack разработчиком и переехать в Европу 🌍<br>🎸 В свободное время учусь и увлекаюсь этичным хакингом 💻🔐
 
-# 💻 I code with:
+# I code with:
 
 <div align="left">
   <a href="https://www.typescriptlang.org/" target="_blank">
@@ -28,5 +28,4 @@
   </a>
 </div>
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in )
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
