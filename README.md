@@ -4,7 +4,6 @@
 
 # I code with:
 
-<div align="left">
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" width="40px" style="margin-right: 20px;" />
   </a>
@@ -26,6 +25,5 @@
   <a href="https://www.djangoproject.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="40px" />
   </a>
-</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
