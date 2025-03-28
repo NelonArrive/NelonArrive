@@ -1,14 +1,14 @@
 <h1> Привет! <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> Как настроение?</h1>
 <p> Меня зовут Давид, я JavaScript-разработчик из <img src='https://cdn-icons-png.flaticon.com/512/197/197408.png' width='17' /> <b>России</b>.</p>
 
-# About me
+## About me
 
 - ✨ Пишу код и увлекаюсь этим с 2023 года
 - 📚 Сейчас учу Python и прокачиваю навыки в backend-разработке
 - 🎯 Цели: стать сильным full-stack разработчиком и переехать в Европу 🌍
 - 🎲 В свободное время учусь и увлекаюсь этичным хакингом 💻🔐
 
-# I code with
+## I code with
 
   <a style="padding-right: 20px;" href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" width="40px" />
