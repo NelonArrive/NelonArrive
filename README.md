@@ -10,6 +10,9 @@
 
 ## I code with
 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img align="left" title="JavaScript" alt="JavaScript Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40px" />
+  </a>
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img align="left" title="TypeScript" alt="TypeScript Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" width="40px" />
   </a>
@@ -18,6 +21,9 @@
   </a>
     <a href="https://nextjs.org/" target="_blank">
     <img align="left" title="Next.js" alt="Next.js Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40px" />
+  </a>
+  <a href="https://tanstack.com/query/latest" target="_blank">
+    <img align="left" title="React Query" alt="React Query Logo" src="https://assets.streamlinehq.com/image/private/w_40,h_40,ar_1/f_auto/v1/icons/2/react-query-icon-xjukes5xosrrwg3y3ics1f.png/react-query-icon-2dw36yx2b016w37mbipyn.png?_a=DAJFJtWIZAAC" width="40px" />
   </a>
   <a href="https://tailwindcss.com/" target="_blank">
     <img align="left" title="Tailwind CSS" alt="Tailwind CSS Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40px" />
