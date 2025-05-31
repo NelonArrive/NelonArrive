@@ -37,9 +37,6 @@
   <a href="https://www.djangoproject.com/" target="_blank">
     <img align="left" title="Django" alt="Django Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="40px" />
   </a>
-  <a href="https://isocpp.org/" target="_blank">
-    <img align="left" title="C++" alt="C++ Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" width="40px" />
-  </a>
   <a href="https://www.linux.org/" target="_blank">
     <img align="left" title="Linux" alt="Linux Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40px" />
   </a>
