@@ -5,7 +5,7 @@
 
 - ✨ Пишу код и увлекаюсь этим с 2023 года
 - 📚 Сейчас учу Python и прокачиваю навыки в backend-разработке
-- 🎯 Цели: стать сильным full-stack разработчиком и переехать в Европу 🌍
+- 🎯 Цели: стать сильным full-stack разработчиком 💪
 - 🎲 В свободное время учусь и увлекаюсь этичным хакингом 💻🔐
 
 ## I code with
@@ -30,12 +30,6 @@
   </a>
   <a href="https://nestjs.com/" target="_blank">
     <img align="left" title="NestJS" alt="NestJS Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="40px" />
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img align="left" title="Python" alt="Python Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40px" />
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank">
-    <img align="left" title="Django" alt="Django Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="40px" />
   </a>
   <a href="https://www.linux.org/" target="_blank">
     <img align="left" title="Linux" alt="Linux Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40px" />
