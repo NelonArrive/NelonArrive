@@ -24,6 +24,9 @@
   <a href="https://react.dev/" target="_blank">
     <img align="left" title="React" alt="React Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40px" />
   </a>
+  <a href="https://vuejs.org/" target="_blank">
+    <img align="left" title="Vue.js" alt="Vue.js Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="40px" />
+  </a>
   <a href="https://nextjs.org/" target="_blank">
     <img align="left" title="Next.js" alt="Next.js Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40px" />
   </a>
@@ -45,3 +48,4 @@
   <a href="https://git-scm.com/" target="_blank">
     <img align="left" title="Git" alt="Git Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40px" />
   </a>
+
