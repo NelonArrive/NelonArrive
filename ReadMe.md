@@ -37,7 +37,7 @@
     <img align="left" title="Redux" alt="Redux Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" width="40px" />
   </a>
   <a href="https://zustand-demo.pmnd.rs/" target="_blank">
-    <img align="left" title="Zustand" alt="Zustand Logo" src="https://repository-images.githubusercontent.com/180328715/fca49300-e7f1-11ea-9f51-cfd949b31560" width="40px" />
+    <img align="left" title="Zustand" alt="Zustand Logo" src="https://hexmos.com/freedevtools/svg_icons/zustand/zustand-original.svg" width="40px" />
   </a>
   <a href="https://tanstack.com/query/latest" target="_blank">
     <img align="left" title="React Query" alt="React Query Logo" src="https://files.svgcdn.io/logos/react-query-icon.svg" width="40px" />
@@ -106,6 +106,8 @@
   <a href="https://www.linux.org/" target="_blank">
     <img align="left" title="Linux" alt="Linux Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40px" />
   </a>
+  <a href="https://insomnia.rest/" target="_blank"><img align="left" title="Insomnia" alt="Insomnia Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" width="40px" /></a>
+  <a href="https://www.postman.com/" target="_blank"><img align="left" title="Postman" alt="Postman Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="40px" /></a>
 </p>
 
 <br clear="left"/>
