@@ -72,8 +72,8 @@
   <a href="https://gradle.org/" target="_blank">
     <img align="left" title="Gradle" alt="Gradle Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" width="40px" />
   </a>
-  <a href="https://kafka.apache.org/" target="_blank">
-  <img align="left" title="Apache Kafka" alt="Kafka Logo" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40px" />
+<a href="https://kafka.apache.org/" target="_blank">
+  <img align="left" title="Apache Kafka" alt="Kafka Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg" width="40px" />
 </a>
 </p>
 
