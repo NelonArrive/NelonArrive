@@ -73,7 +73,7 @@
     <img align="left" title="Gradle" alt="Gradle Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" width="40px" />
   </a>
 <a href="https://kafka.apache.org/" target="_blank">
-  <img align="left" title="Apache Kafka" alt="Kafka Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg" width="40px" />
+  <img align="left" title="Apache Kafka" alt="Kafka Logo" src="https://svn.apache.org/repos/asf/kafka/site/logos/originals/png/ICON%20-%20White%20on%20Transparent.png" width="40px" />
 </a>
 </p>
 
