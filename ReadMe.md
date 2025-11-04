@@ -13,7 +13,6 @@
 
 ---
 
----
 ## My Tech Stack
 
 ### 🎨 Frontend Development
