@@ -18,6 +18,7 @@
 *Coming soon - currently building cool stuff!*
 
 ## 📫 Contact
+- Telegram: `@NelonArrive`
 - Discord: `@nelon_arrive`
 - Email: `nelon.arrive@gmail.com`
 
