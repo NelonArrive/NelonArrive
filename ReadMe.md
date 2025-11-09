@@ -8,11 +8,11 @@
 
 ### Languages & Frameworks
 
-![Languages & Frameworks](https://skillicons.dev/icons?i=java,spring,hibernate,nestjs,prisma,graphql,js,ts,react,nextjs,vue,redux,pinia,tailwind,vite\&theme=dark)
+![Languages & Frameworks](https://skillicons.dev/icons?i=java,spring,hibernate,nestjs,prisma,graphql,js,ts,react,nextjs,vue,redux,pinia,tailwind\&theme=dark)
 
 ### Databases & Infrastructure
 
-![Databases & Infrastructure](https://skillicons.dev/icons?i=postgres,mysql,redis,kafka,docker,linux,maven,gradle,git\&theme=dark)
+![Databases & Infrastructure](https://skillicons.dev/icons?i=postgres,mysql,redis,kafka,docker,linux,maven,gradle,git,vite,bun\&theme=dark)
 
 ## 🎯 Projects
 *Coming soon - currently building cool stuff!*
