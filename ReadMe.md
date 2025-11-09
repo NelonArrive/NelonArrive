@@ -8,7 +8,7 @@
 
 ### Languages & Frameworks
 
-![Languages & Frameworks](https://skillicons.dev/icons?i=java,spring,hibernate,nestjs,prisma,graphql,js,ts,react,nextjs,vue,redux,zustand,tailwind,vite\&theme=dark)
+![Languages & Frameworks](https://skillicons.dev/icons?i=java,spring,hibernate,nestjs,prisma,graphql,js,ts,react,nextjs,vue,redux,pinia,tailwind,vite\&theme=dark)
 
 ### Databases & Infrastructure
 
