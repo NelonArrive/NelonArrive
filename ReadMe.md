@@ -1,32 +1,41 @@
-## ✨ About
-- Started my programming journey in 2023 and genuinely enjoying the process.
-- Building full-stack applications while heavily investing in Java ecosystem.
-- Focused on backend architecture and scalable solutions.
-- Always learning, always coding.
+## About
 
-## 🛠️ Skills
+Backend-focused full-stack developer.  
+Started programming in 2023 and genuinely enjoying the process.
+
+- Strong focus on **Java & Spring ecosystem**
+- Interested in **backend architecture** and **scalable systems**
+- Building real projects and learning through practice
+
+**Telegram:** @NelonArrive
+
+---
+
+## Skills
 
 ### Languages & Frameworks
 
-![Languages & Frameworks](https://skillicons.dev/icons?i=java,spring,hibernate,nestjs,prisma,graphql,js,ts,react,nextjs,vue,redux,pinia,tailwind\&theme=dark)
+![Languages](https://skillicons.dev/icons?i=java,spring,hibernate,nestjs,prisma,graphql,js,ts,react,nextjs,vue,redux,pinia,tailwind&theme=dark&size=36)
 
 ### Databases & Infrastructure
 
-![Databases & Infrastructure](https://skillicons.dev/icons?i=postgres,mysql,redis,kafka,docker,linux,maven,gradle,git,vite,bun\&theme=dark)
+![Infra](https://skillicons.dev/icons?i=postgres,mysql,redis,kafka,docker,linux,maven,gradle,git,vite,bun&theme=dark&size=36)
 
-## 🎯 Projects
-*Coming soon - currently building cool stuff!*
+---
 
-## 📫 Contact
-- Telegram: `@NelonArrive`
-- Discord: `@nelon_arrive`
-- Email: `nelon.arrive@gmail.com`
+## Projects
 
-## ⭐ Stats
+_Work in progress — building and polishing real-world applications._
+
+---
+
+## Stats
+
 <details>
-  <summary>Click to show GitHub stats</summary>
+  <summary>GitHub activity</summary>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=NelonArrive&theme=transparent&show_icons=true&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NelonArrive&theme=transparent&show_icons=true&hide_border=true&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=NelonArrive&theme=transparent&hide_border=true&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NelonArrive&theme=transparent&hide_border=true&layout=compact)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=NelonArrive&theme=transparent&hide_border=true)
+
 </details>
