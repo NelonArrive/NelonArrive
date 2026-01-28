@@ -9,8 +9,6 @@ Started programming in 2023 and genuinely enjoying the process.
 
 **Telegram:** @NelonArrive
 
----
-
 ## Skills
 
 ### Languages & Frameworks
@@ -21,13 +19,9 @@ Started programming in 2023 and genuinely enjoying the process.
 
 ![Infra](https://skillicons.dev/icons?i=postgres,mysql,redis,kafka,docker,linux,maven,gradle,git,vite,bun&theme=dark&size=36)
 
----
-
 ## Projects
 
 _Work in progress — building and polishing real-world applications._
-
----
 
 ## Stats
 
