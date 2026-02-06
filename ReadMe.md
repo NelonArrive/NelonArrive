@@ -22,17 +22,22 @@ Started programming in 2023 and genuinely enjoying the process.
 
 _Work in progress — building and polishing real-world applications._
 
-## Connect
-
-## Connect
-
-<a href="https://t.me/NelonArrive"><img src="https://img.shields.io/badge/-2CA5E0?style=flat&logo=telegram&logoColor=white" height="25"/></a> Telegram
 <p align="left">
-  <a href="https://linkedin.com/in/nelonarrive">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="25"/> LinkedIn
+  <a href="https://t.me/NelonArrive" style="text-decoration:none; color:white; margin-right:15px;">
+    <img src="https://img.shields.io/badge/-2CA5E0?style=flat&logo=telegram&logoColor=white" height="25" style="vertical-align:middle;" />
+    <span style="vertical-align:middle;">Telegram</span>
+  </a>
+
+  <a href="https://linkedin.com/in/nelonarrive" style="text-decoration:none; color:white; margin-right:15px;">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="25" style="vertical-align:middle;" />
+    <span style="vertical-align:middle;">LinkedIn</span>
+  </a>
+
+  <a href="mailto:your@email.com" style="text-decoration:none; color:white;">
+    <img src="https://img.shields.io/badge/-D14836?style=flat&logo=gmail&logoColor=white" height="25" style="vertical-align:middle;" />
+    <span style="vertical-align:middle;">Email</span>
   </a>
 </p>
-<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/-D14836?style=flat&logo=gmail&logoColor=white" height="25"/></a> Email
 
 ## Stats
 
