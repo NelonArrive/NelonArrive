@@ -12,11 +12,11 @@ Started programming in 2023 and genuinely enjoying the process.
 
 ### Languages & Frameworks
 
-![Languages](https://skillicons.dev/icons?i=java,spring,hibernate,nestjs,prisma,graphql,js,ts,react,nextjs,vue,redux,pinia,tailwind&theme=dark&size=33)
+![Languages](https://skillicons.dev/icons?i=java,spring,hibernate,nestjs,prisma,graphql,js,ts,react,nextjs,vue,redux,pinia,tailwind&theme=dark&size=28)
 
 ### Databases & Infrastructure
 
-![Infra](https://skillicons.dev/icons?i=postgres,mysql,redis,kafka,docker,linux,maven,gradle,git,vite,bun&theme=dark&size=33)
+![Infra](https://skillicons.dev/icons?i=postgres,mysql,redis,kafka,docker,linux,maven,gradle,git,vite,bun&theme=dark&size=28)
 
 ## Projects
 
