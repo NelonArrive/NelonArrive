@@ -23,12 +23,9 @@ _Work in progress — building and polishing real-world applications._
 
 ## Connect
 
-<a href="https://t.me/NelonArrive"><img src="https://img.shields.io/badge/-2CA5E0?style=flat&logo=telegram&logoColor=white" height="35"/></a>
 
 <p align="left">
-<a href="https://t.me/NelonArrive">
-  <img src="https://skillicons.dev/icons?i=telegram&theme=dark" height="35"/>
-</a>
+<a href="https://t.me/NelonArrive"><img src="https://img.shields.io/badge/-2CA5E0?style=flat&logo=telegram&logoColor=white" height="55"/></a>
 <a href="https://linkedin.com/in/nelonarrive">
   <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="35"/>
 </a>
