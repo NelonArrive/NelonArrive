@@ -27,6 +27,18 @@ _Work in progress — building and polishing real-world applications._
 <a href="https://linkedin.com/in/nelonarrive"><img src="https://img.shields.io/badge/-0077B5?style=flat&logo=linkedin&logoColor=white" height="25"/></a>
 <a href="mailto:nelon.arrive@gmail.com"><img src="https://img.shields.io/badge/-D14836?style=flat&logo=gmail&logoColor=white" height="25"/></a>
 
+<p align="left">
+<a href="https://t.me/NelonArrive">
+  <img src="https://skillicons.dev/icons?i=telegram&theme=dark" height="35"/>
+</a>
+<a href="https://linkedin.com/in/nelonarrive">
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="35"/>
+</a>
+<a href="mailto:your@email.com">
+  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="35"/>
+</a>
+</p>
+
 ## Stats
 
 <details>
