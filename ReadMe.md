@@ -7,8 +7,6 @@ Started programming in 2023 and genuinely enjoying the process.
 - Interested in **backend architecture** and **scalable systems**
 - Building real projects and learning through practice
 
-**Telegram:** @NelonArrive
-
 ## Skills
 
 ### Languages & Frameworks
@@ -22,6 +20,12 @@ Started programming in 2023 and genuinely enjoying the process.
 ## Projects
 
 _Work in progress — building and polishing real-world applications._
+
+## Connect
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/NelonArrive)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nelonarrive)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nelon.arrive@gmail.com)
 
 ## Stats
 
