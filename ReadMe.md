@@ -33,8 +33,8 @@ _Work in progress — building and polishing real-world applications._
 <details>
   <summary>GitHub activity</summary>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=NelonArrive&theme=transparent&hide_border=true&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NelonArrive&theme=transparent&hide_border=true&layout=compact)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=NelonArrive&theme=transparent&hide_border=true)
+  ![Stats](https://github-readme-stats.vercel.app/api?username=NelonArrive&theme=transparent&hide_border=true&show_icons=true)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NelonArrive&theme=transparent&hide_border=true&layout=compact)
+  ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=NelonArrive&theme=transparent&hide_border=true)
 
 </details>
