@@ -6,6 +6,7 @@ Started programming in 2023 and genuinely enjoying the process.
 - Strong focus on **Java & Spring ecosystem**
 - Interested in **backend architecture** and **scalable systems**
 - Building real projects and learning through practice
+- Always learning, always coding.
 
 ## Skills
 
@@ -22,18 +23,15 @@ Started programming in 2023 and genuinely enjoying the process.
 _Work in progress — building and polishing real-world applications._
 
 ## Connect
-[![Telegram](https://img.shields.io/badge/Telegram-1C8ADB?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/username)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/nelonarrive)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/NelonArrive)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 
 <p align="left">
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="35" height="35" x="0" y="0" viewBox="0 0 176 176" style="enable-background:new 0 0 512 512" xml:space="preserve" class=""><g><g data-name="Layer 2"><rect width="176" height="176" fill="#1C8ADB" rx="24" opacity="1" data-original="#1c8adb" class=""></rect><path fill="#FFFFFF" d="m135.94 45.5-1.82.66-98.78 35.59a3.31 3.31 0 0 0 .29 6.4l25.57 7 4.77 14 4.77 14a4.54 4.54 0 0 0 7.32 1.63l13.21-12.48 25.94 17.59c3.17 2.16 7.69.56 8.5-3l17.18-75.91c.84-3.76-3.12-6.85-6.95-5.48zm-12.61 16.85L78.7 98.83l-2.1 1.72a2.27 2.27 0 0 0-.84 1.48l-.47 3.88-1.29 10.9a.5.5 0 0 1-1 .08L69.37 106l-3.75-11.15a2.26 2.26 0 0 1 1.08-2.67l46.44-26.62 8.74-5c1.27-.74 2.57.87 1.45 1.79z" opacity="1" data-original="#ffffff" class=""></path></g></g></svg>
-<a href="https://linkedin.com/in/nelonarrive">
-  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="35"/>
-</a>
-<a href="mailto:your@email.com">
-  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="35"/>
-</a>
+  <a href="https://linkedin.com/in/nelonarrive">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="35"/>
+  </a>
 </p>
 
 ## Stats
