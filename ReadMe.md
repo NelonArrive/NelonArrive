@@ -23,9 +23,25 @@ _Work in progress — building and polishing real-world applications._
 
 ## Connect
 
+<a href="https://t.me/NelonArrive"><img src="https://img.shields.io/badge/-2CA5E0?style=flat&logo=telegram&logoColor=white" height="25"/></a>
+<a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/-0077B5?style=flat&logo=linkedin&logoColor=white" height="25"/></a>
+<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/-D14836?style=flat&logo=gmail&logoColor=white" height="25"/></a>
+
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/NelonArrive)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nelonarrive)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nelon.arrive@gmail.com)
+
+<p align="left">
+<a href="https://t.me/NelonArrive" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" alt="Telegram" height="30" width="30" />
+</a>
+<a href="https://linkedin.com/in/your-profile" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" />
+</a>
+<a href="mailto:your@email.com" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Email" height="30" width="30" />
+</a>
+</p>
 
 ## Stats
 
