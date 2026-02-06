@@ -24,29 +24,6 @@ _Work in progress — building and polishing real-world applications._
 
 ## Connect
 
-<p align="left">
-  <a href="https://t.me/NelonArrive" style="text-decoration:none; color:white; margin-right:15px;">
-    <img src="https://img.shields.io/badge/-2CA5E0?style=flat&logo=telegram&logoColor=white" height="25" style="vertical-align:middle;" />
-    <span style="vertical-align:middle;">Telegram</span>
-  </a>
-
-  <a href="https://linkedin.com/in/nelonarrive" style="text-decoration:none; color:white; margin-right:15px;">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="25" style="vertical-align:middle;" />
-    <span style="vertical-align:middle;">LinkedIn</span>
-  </a>
-
-  <a href="mailto:your@email.com" style="text-decoration:none; color:white;">
-    <img src="https://img.shields.io/badge/-D14836?style=flat&logo=gmail&logoColor=white" height="25" style="vertical-align:middle;" />
-    <span style="vertical-align:middle;">Email</span>
-  </a>
-</p>
-
-<p align="left">
-<a href="https://t.me/NelonArrive"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" height="25"/></a>
-<a href="https://linkedin.com/in/nelonarrive"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="25"/></a>
-<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" height="25"/></a>
-</p>
-
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/NelonArrive)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/nelonarrive)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your@email.com)
