@@ -154,19 +154,224 @@ Started programming in 2023 and genuinely enjoying the process.
 
 </details>
 
-NelonBank - *A digital banking system with accounts, transactions, cards, and fraud detection.*
+<details>
+<summary>NelonBank - *A digital banking system with accounts, transactions, cards, and fraud detection.*</summary>
 
-NelonJobs - *A job board platform with resumes, applications, and recruiter tools.*
+#### Features
+* Account Management
+* Transactions & Transfers
+* Card Issuance & Control
+* Fraud Detection
+* Loan & Credit Module
 
-NelonTracker - *A personal finance and expense tracking application with analytics dashboards.*
+#### Tech Stack
+* Spring Boot
+* PostgreSQL
+* Redis
+* Kafka
+* Spring Security / OAuth2
 
-NelonCloud - *A cloud file storage platform with sharing, synchronization, and version control.*
+#### Services
+* Account Service
+* Transaction Service
+* Card Service
+* Fraud Detection Service
+* Notification Service
 
-NelonRide - *A ride-hailing platform with real-time driver tracking and trip management.*
+#### Architecture
+* Event-Driven Architecture
+* CQRS Pattern
+* Distributed Transactions (Saga)
 
-NelonCRM - *A customer relationship management system for sales pipelines and lead tracking.*
+</details>
 
-NelonTask - *A collaborative task and project management platform similar to Jira or Trello.*
+<details>
+<summary>NelonJobs - *A job board platform with resumes, applications, and recruiter tools.*</summary>
+
+#### Features
+* Job Listings & Search
+* Resume Builder & Upload
+* Application Tracking
+* Recruiter Dashboard
+* Email Notifications
+
+#### Tech Stack
+* Spring Boot
+* PostgreSQL
+* Elasticsearch
+* Redis
+* MinIO / S3
+
+#### Services
+* Job Service
+* Resume Service
+* Application Service
+* Recruiter Service
+* Notification Service
+
+#### Advanced Features
+* Full-Text Job Search (Elasticsearch)
+* Resume Parsing
+* Application Status Pipeline
+* Recruiter Analytics
+
+</details>
+
+<details>
+<summary>NelonTracker - *A personal finance and expense tracking application with analytics dashboards.*</summary>
+
+#### Features
+* Expense & Income Tracking
+* Budget Planning
+* Category Management
+* Analytics & Reports
+* Recurring Transactions
+
+#### Tech Stack
+* Spring Boot
+* PostgreSQL
+* Redis
+* Spring Batch
+
+#### Services
+* Transaction Service
+* Budget Service
+* Analytics Service
+* Notification Service
+
+#### Advanced Features
+* Monthly/Weekly Reports
+* Spending Trends & Insights
+* CSV Export
+* Scheduled Budget Alerts
+
+</details>
+
+<details>
+<summary>NelonCloud - *A cloud file storage platform with sharing, synchronization, and version control.*</summary>
+
+#### Features
+* File Upload & Download
+* Folder Management
+* File Sharing & Permissions
+* Version History
+* Real-time Sync
+
+#### Tech Stack
+* Spring Boot
+* PostgreSQL
+* MinIO / S3
+* Redis
+* Kafka
+
+#### Services
+* Storage Service
+* Sharing Service
+* Version Service
+* Sync Service
+* Notification Service
+
+#### Architecture
+* Chunked File Upload
+* CDN Simulation
+* Event-Driven Sync
+
+</details>
+
+<details>
+<summary>NelonRide - *A ride-hailing platform with real-time driver tracking and trip management.*</summary>
+
+#### Features
+* Ride Booking
+* Real-time Driver Tracking
+* Trip Management
+* Fare Calculation
+* Ratings & Reviews
+
+#### Tech Stack
+* Spring Boot
+* PostgreSQL
+* Redis
+* Kafka
+* WebSocket
+
+#### Services
+* Booking Service
+* Driver Service
+* Tracking Service
+* Payment Service
+* Rating Service
+
+#### Advanced Features
+* Real-time Location Updates (WebSocket)
+* Dynamic Fare Pricing
+* Driver Matchmaking Algorithm
+* Trip History & Analytics
+
+</details>
+
+<details>
+<summary>NelonCRM - *A customer relationship management system for sales pipelines and lead tracking.*</summary>
+
+#### Features
+* Contact & Company Management
+* Sales Pipeline
+* Lead Tracking
+* Task & Activity Log
+* Reports & Analytics
+
+#### Tech Stack
+* Spring Boot
+* PostgreSQL
+* Redis
+* Elasticsearch
+
+#### Services
+* Contact Service
+* Pipeline Service
+* Lead Service
+* Activity Service
+* Analytics Service
+
+#### Advanced Features
+* Kanban-style Pipeline Board
+* Lead Scoring
+* Sales Funnel Analytics
+* Full-Text Contact Search
+
+</details>
+
+<details>
+<summary>NelonTask - *A collaborative task and project management platform similar to Jira or Trello.*</summary>
+
+#### Features
+* Projects & Boards
+* Task Management
+* Team Collaboration
+* Comments & Attachments
+* Notifications
+
+#### Tech Stack
+* Spring Boot
+* PostgreSQL
+* Redis
+* Kafka
+* WebSocket
+
+#### Services
+* Project Service
+* Task Service
+* Comment Service
+* Notification Service
+* User Service
+
+#### Advanced Features
+* Kanban & List Views
+* Task Assignments & Deadlines
+* Real-time Updates (WebSocket)
+* Activity Feed
+
+</details>
 
 ---
 
