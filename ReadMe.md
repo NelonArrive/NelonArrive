@@ -18,6 +18,8 @@ Started programming in 2023 and genuinely enjoying the process.
 
 ![Infra](https://skillicons.dev/icons?i=postgres,mysql,redis,kafka,docker,linux,maven,gradle,git,vite,bun&theme=dark&size=25)
 
+## Projects
+
 <details>
 <summary>NelonGram</summary>
 
@@ -47,8 +49,6 @@ Started programming in 2023 and genuinely enjoying the process.
 * Media Service
 
 </details>
-
----
 
 <details>
 <summary>NelonFlix</summary>
@@ -84,8 +84,6 @@ Started programming in 2023 and genuinely enjoying the process.
 
 </details>
 
----
-
 <details>
 <summary>NelonLearn</summary>
 
@@ -106,8 +104,6 @@ Started programming in 2023 and genuinely enjoying the process.
 * AI Tutor Service
 
 </details>
-
----
 
 <details>
 <summary>NelonEcom</summary>
@@ -134,8 +130,6 @@ Started programming in 2023 and genuinely enjoying the process.
 
 </details>
 
----
-
 <details>
 <summary>NelonGame</summary>
 
@@ -155,8 +149,6 @@ Started programming in 2023 and genuinely enjoying the process.
 * Achievement Service
 
 </details>
-
----
 
 <details>
 <summary>NelonBank</summary>
@@ -190,8 +182,6 @@ Started programming in 2023 and genuinely enjoying the process.
 * Distributed Transactions (Saga)
 
 </details>
-
----
 
 <details>
 <summary>NelonJobs</summary>
@@ -227,8 +217,6 @@ Started programming in 2023 and genuinely enjoying the process.
 
 </details>
 
----
-
 <details>
 <summary>NelonTracker</summary>
 
@@ -260,8 +248,6 @@ Started programming in 2023 and genuinely enjoying the process.
 * Scheduled Budget Alerts
 
 </details>
-
----
 
 <details>
 <summary>NelonCloud</summary>
@@ -295,8 +281,6 @@ Started programming in 2023 and genuinely enjoying the process.
 * Event-Driven Sync
 
 </details>
-
----
 
 <details>
 <summary>NelonRide</summary>
@@ -332,8 +316,6 @@ Started programming in 2023 and genuinely enjoying the process.
 
 </details>
 
----
-
 <details>
 <summary>NelonCRM</summary>
 
@@ -366,8 +348,6 @@ Started programming in 2023 and genuinely enjoying the process.
 * Full-Text Contact Search
 
 </details>
-
----
 
 <details>
 <summary>NelonTask</summary>
@@ -402,8 +382,6 @@ Started programming in 2023 and genuinely enjoying the process.
 * Activity Feed
 
 </details>
-
----
 
 ## Portfolio Overview
 
