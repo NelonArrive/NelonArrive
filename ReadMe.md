@@ -22,8 +22,6 @@ Started programming in 2023 and genuinely enjoying the process.
 
 NelonGram - *A social media platform with posts, stories, messaging, and real-time notifications.*
 
-![Status](https://img.shields.io/badge/Status-Planned-lightgrey)
-
 <details>
 <summary>View details</summary>
 
@@ -56,8 +54,6 @@ NelonGram - *A social media platform with posts, stories, messaging, and real-ti
 </details>
 
 NelonFlix - *A video streaming platform with recommendations, watchlists, and content analytics.*
-
-![Status](https://img.shields.io/badge/Status-In_Progress-success)
 
 <details>
 <summary>View details</summary>
@@ -97,8 +93,6 @@ NelonFlix - *A video streaming platform with recommendations, watchlists, and co
 
 NelonLearn - *An online learning platform with courses, quizzes, progress tracking, and certificates.*
 
-![Status](https://img.shields.io/badge/Status-Planned-lightgrey)
-
 <details>
 <summary>View details</summary>
 
@@ -121,8 +115,6 @@ NelonLearn - *An online learning platform with courses, quizzes, progress tracki
 </details>
 
 NelonEcom - *A modern e-commerce marketplace with payments, inventory management, and order tracking.*
-
-![Status](https://img.shields.io/badge/Status-Planned-lightgrey)
 
 <details>
 <summary>View details</summary>
@@ -152,8 +144,6 @@ NelonEcom - *A modern e-commerce marketplace with payments, inventory management
 
 NelonGame - *A gaming platform with leaderboards, achievements, matchmaking, and player profiles.*
 
-![Status](https://img.shields.io/badge/Status-Planned-lightgrey)
-
 <details>
 <summary>View details</summary>
 
@@ -176,42 +166,36 @@ NelonGame - *A gaming platform with leaderboards, achievements, matchmaking, and
 
 NelonBank - *A digital banking system with accounts, transactions, cards, and fraud detection.*
 
-![Status](https://img.shields.io/badge/Status-Idea-blue)
-
 NelonJobs - *A job board platform with resumes, applications, and recruiter tools.*
-
-![Status](https://img.shields.io/badge/Status-Idea-blue)
 
 NelonTracker - *A personal finance and expense tracking application with analytics dashboards.*
 
-![Status](https://img.shields.io/badge/Status-Idea-blue)
-
 NelonCloud - *A cloud file storage platform with sharing, synchronization, and version control.*
-
-![Status](https://img.shields.io/badge/Status-Idea-blue)
 
 NelonRide - *A ride-hailing platform with real-time driver tracking and trip management.*
 
-![Status](https://img.shields.io/badge/Status-Idea-blue)
-
 NelonCRM - *A customer relationship management system for sales pipelines and lead tracking.*
-
-![Status](https://img.shields.io/badge/Status-Idea-blue)
 
 NelonTask - *A collaborative task and project management platform similar to Jira or Trello.*
 
-![Status](https://img.shields.io/badge/Status-Idea-blue)
-
 ---
 
-## Roadmap
+## Portfolio Overview
 
-* [x] NelonFlix
-* [ ] NelonGram
-* [ ] NelonLearn
-* [ ] NelonEcom
-* [ ] NelonGame
-* [ ] NelonBank
+| Project         | Domain             | Architecture        | Status         |
+| --------------- | ------------------ | ------------------- | -------------- |
+| 🎬 NelonFlix    | Video Streaming    | Microservices       | 🚧 In Progress |
+| 📸 NelonGram    | Social Network     | Microservices       | 📌 Planned     |
+| 🎓 NelonLearn   | E-Learning         | Microservices       | 📌 Planned     |
+| 🛒 NelonEcom    | E-Commerce         | Event-Driven        | 📌 Planned     |
+| 🎮 NelonGame    | Gaming Platform    | Real-Time Services  | 📌 Planned     |
+| 🏦 NelonBank    | Digital Banking    | Distributed Systems | 💡 Idea        |
+| 💼 NelonJobs    | Recruitment        | Microservices       | 💡 Idea        |
+| 📊 NelonTracker | Finance            | Monolith / Modular  | 💡 Idea        |
+| ☁️ NelonCloud   | Cloud Storage      | Distributed Systems | 💡 Idea        |
+| 🚕 NelonRide    | Transportation     | Event-Driven        | 💡 Idea        |
+| 🤝 NelonCRM     | CRM                | Modular Monolith    | 💡 Idea        |
+| 📋 NelonTask    | Project Management | Microservices       | 💡 Idea        |
 
 ## Connect
 
