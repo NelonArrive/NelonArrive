@@ -20,10 +20,8 @@ Started programming in 2023 and genuinely enjoying the process.
 
 ## Projects
 
-NelonGram - *A social media platform with posts, stories, messaging, and real-time notifications.*
-
 <details>
-<summary>View details</summary>
+<summary>NelonGram - *A social media platform with posts, stories, messaging, and real-time notifications.*</summary>
 
 #### Features
 
@@ -53,10 +51,8 @@ NelonGram - *A social media platform with posts, stories, messaging, and real-ti
 
 </details>
 
-NelonFlix - *A video streaming platform with recommendations, watchlists, and content analytics.*
-
 <details>
-<summary>View details</summary>
+<summary>NelonFlix - *A video streaming platform with recommendations, watchlists, and content analytics.*</summary>
 
 #### Features
 
@@ -91,10 +87,8 @@ NelonFlix - *A video streaming platform with recommendations, watchlists, and co
 
 </details>
 
-NelonLearn - *An online learning platform with courses, quizzes, progress tracking, and certificates.*
-
 <details>
-<summary>View details</summary>
+<summary>NelonLearn - *An online learning platform with courses, quizzes, progress tracking, and certificates.*</summary>
 
 #### Features
 
@@ -114,10 +108,8 @@ NelonLearn - *An online learning platform with courses, quizzes, progress tracki
 
 </details>
 
-NelonEcom - *A modern e-commerce marketplace with payments, inventory management, and order tracking.*
-
 <details>
-<summary>View details</summary>
+<summary>NelonEcom - *A modern e-commerce marketplace with payments, inventory management, and order tracking.*</summary>
 
 #### Features
 
@@ -142,10 +134,8 @@ NelonEcom - *A modern e-commerce marketplace with payments, inventory management
 
 </details>
 
-NelonGame - *A gaming platform with leaderboards, achievements, matchmaking, and player profiles.*
-
 <details>
-<summary>View details</summary>
+<summary>NelonGame - *A gaming platform with leaderboards, achievements, matchmaking, and player profiles.*</summary>
 
 #### Features
 
