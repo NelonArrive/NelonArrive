@@ -55,9 +55,7 @@ NelonGram - *A social media platform with posts, stories, messaging, and real-ti
 
 </details>
 
----
-
-- NelonFlix - *A video streaming platform with recommendations, watchlists, and content analytics.*
+NelonFlix - *A video streaming platform with recommendations, watchlists, and content analytics.*
 
 ![Status](https://img.shields.io/badge/Status-In_Progress-success)
 
@@ -97,8 +95,6 @@ NelonGram - *A social media platform with posts, stories, messaging, and real-ti
 
 </details>
 
----
-
 NelonLearn - *An online learning platform with courses, quizzes, progress tracking, and certificates.*
 
 ![Status](https://img.shields.io/badge/Status-Planned-lightgrey)
@@ -124,9 +120,7 @@ NelonLearn - *An online learning platform with courses, quizzes, progress tracki
 
 </details>
 
----
-
-- NelonEcom - *A modern e-commerce marketplace with payments, inventory management, and order tracking.*
+NelonEcom - *A modern e-commerce marketplace with payments, inventory management, and order tracking.*
 
 ![Status](https://img.shields.io/badge/Status-Planned-lightgrey)
 
@@ -156,8 +150,6 @@ NelonLearn - *An online learning platform with courses, quizzes, progress tracki
 
 </details>
 
----
-
 NelonGame - *A gaming platform with leaderboards, achievements, matchmaking, and player profiles.*
 
 ![Status](https://img.shields.io/badge/Status-Planned-lightgrey)
@@ -182,33 +174,31 @@ NelonGame - *A gaming platform with leaderboards, achievements, matchmaking, and
 
 </details>
 
----
-
-### NelonBank - *A digital banking system with accounts, transactions, cards, and fraud detection.*
+NelonBank - *A digital banking system with accounts, transactions, cards, and fraud detection.*
 
 ![Status](https://img.shields.io/badge/Status-Idea-blue)
 
-### NelonJobs - *A job board platform with resumes, applications, and recruiter tools.*
+NelonJobs - *A job board platform with resumes, applications, and recruiter tools.*
 
 ![Status](https://img.shields.io/badge/Status-Idea-blue)
 
-### NelonTracker - *A personal finance and expense tracking application with analytics dashboards.*
+NelonTracker - *A personal finance and expense tracking application with analytics dashboards.*
 
 ![Status](https://img.shields.io/badge/Status-Idea-blue)
 
-### NelonCloud - *A cloud file storage platform with sharing, synchronization, and version control.*
+NelonCloud - *A cloud file storage platform with sharing, synchronization, and version control.*
 
 ![Status](https://img.shields.io/badge/Status-Idea-blue)
 
-### NelonRide - *A ride-hailing platform with real-time driver tracking and trip management.*
+NelonRide - *A ride-hailing platform with real-time driver tracking and trip management.*
 
 ![Status](https://img.shields.io/badge/Status-Idea-blue)
 
-### NelonCRM - *A customer relationship management system for sales pipelines and lead tracking.*
+NelonCRM - *A customer relationship management system for sales pipelines and lead tracking.*
 
 ![Status](https://img.shields.io/badge/Status-Idea-blue)
 
-### NelonTask - *A collaborative task and project management platform similar to Jira or Trello.*
+NelonTask - *A collaborative task and project management platform similar to Jira or Trello.*
 
 ![Status](https://img.shields.io/badge/Status-Idea-blue)
 
