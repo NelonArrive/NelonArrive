@@ -20,17 +20,9 @@ Started programming in 2023 and genuinely enjoying the process.
 
 ## Projects
 
-![Java](https://img.shields.io/badge/Java-21-orange)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.x-green)
-![Microservices](https://img.shields.io/badge/Architecture-Microservices-blue)
-
-## Projects
-
-### 📸 NelonGram
+NelonGram - *A social media platform with posts, stories, messaging, and real-time notifications.*
 
 ![Status](https://img.shields.io/badge/Status-Planned-lightgrey)
-
-*A social media platform with posts, stories, messaging, and real-time notifications.*
 
 <details>
 <summary>View details</summary>
@@ -65,11 +57,9 @@ Started programming in 2023 and genuinely enjoying the process.
 
 ---
 
-### 🎬 NelonFlix
+- NelonFlix - *A video streaming platform with recommendations, watchlists, and content analytics.*
 
 ![Status](https://img.shields.io/badge/Status-In_Progress-success)
-
-*A video streaming platform with recommendations, watchlists, and content analytics.*
 
 <details>
 <summary>View details</summary>
@@ -109,11 +99,9 @@ Started programming in 2023 and genuinely enjoying the process.
 
 ---
 
-### 🎓 NelonLearn
+NelonLearn - *An online learning platform with courses, quizzes, progress tracking, and certificates.*
 
 ![Status](https://img.shields.io/badge/Status-Planned-lightgrey)
-
-*An online learning platform with courses, quizzes, progress tracking, and certificates.*
 
 <details>
 <summary>View details</summary>
@@ -138,11 +126,9 @@ Started programming in 2023 and genuinely enjoying the process.
 
 ---
 
-### 🛒 NelonEcom
+- NelonEcom - *A modern e-commerce marketplace with payments, inventory management, and order tracking.*
 
 ![Status](https://img.shields.io/badge/Status-Planned-lightgrey)
-
-*A modern e-commerce marketplace with payments, inventory management, and order tracking.*
 
 <details>
 <summary>View details</summary>
@@ -172,11 +158,9 @@ Started programming in 2023 and genuinely enjoying the process.
 
 ---
 
-### 🎮 NelonGame
+NelonGame - *A gaming platform with leaderboards, achievements, matchmaking, and player profiles.*
 
 ![Status](https://img.shields.io/badge/Status-Planned-lightgrey)
-
-*A gaming platform with leaderboards, achievements, matchmaking, and player profiles.*
 
 <details>
 <summary>View details</summary>
