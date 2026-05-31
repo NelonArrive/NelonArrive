@@ -200,47 +200,33 @@ Started programming in 2023 and genuinely enjoying the process.
 
 ---
 
-### 🏦 NelonBank
+### NelonBank - *A digital banking system with accounts, transactions, cards, and fraud detection.*
 
 ![Status](https://img.shields.io/badge/Status-Idea-blue)
 
-*A digital banking system with accounts, transactions, cards, and fraud detection.*
-
-### 💼 NelonJobs
+### NelonJobs - *A job board platform with resumes, applications, and recruiter tools.*
 
 ![Status](https://img.shields.io/badge/Status-Idea-blue)
 
-*A job board platform with resumes, applications, and recruiter tools.*
-
-### 📊 NelonTracker
+### NelonTracker - *A personal finance and expense tracking application with analytics dashboards.*
 
 ![Status](https://img.shields.io/badge/Status-Idea-blue)
 
-*A personal finance and expense tracking application with analytics dashboards.*
-
-### ☁️ NelonCloud
+### NelonCloud - *A cloud file storage platform with sharing, synchronization, and version control.*
 
 ![Status](https://img.shields.io/badge/Status-Idea-blue)
 
-*A cloud file storage platform with sharing, synchronization, and version control.*
-
-### 🚕 NelonRide
+### NelonRide - *A ride-hailing platform with real-time driver tracking and trip management.*
 
 ![Status](https://img.shields.io/badge/Status-Idea-blue)
 
-*A ride-hailing platform with real-time driver tracking and trip management.*
-
-### 🤝 NelonCRM
+### NelonCRM - *A customer relationship management system for sales pipelines and lead tracking.*
 
 ![Status](https://img.shields.io/badge/Status-Idea-blue)
 
-*A customer relationship management system for sales pipelines and lead tracking.*
-
-### 📋 NelonTask
+### NelonTask - *A collaborative task and project management platform similar to Jira or Trello.*
 
 ![Status](https://img.shields.io/badge/Status-Idea-blue)
-
-*A collaborative task and project management platform similar to Jira or Trello.*
 
 ---
 
@@ -252,13 +238,6 @@ Started programming in 2023 and genuinely enjoying the process.
 * [ ] NelonEcom
 * [ ] NelonGame
 * [ ] NelonBank
-
-## Current Focus
-
-> 🎬 **Currently building: NelonFlix**
->
-> Video streaming platform based on Java, Spring Boot, Kafka, Redis, PostgreSQL and Microservices Architecture.
-
 
 ## Connect
 
