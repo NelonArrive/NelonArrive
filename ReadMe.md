@@ -18,13 +18,12 @@ Started programming in 2023 and genuinely enjoying the process.
 
 ![Infra](https://skillicons.dev/icons?i=postgres,mysql,redis,kafka,docker,linux,maven,gradle,git,vite,bun&theme=dark&size=25)
 
-## Projects
-
 <details>
-<summary>NelonGram - *A social media platform with posts, stories, messaging, and real-time notifications.*</summary>
+<summary>NelonGram</summary>
+
+> *A social media platform with posts, stories, messaging, and real-time notifications.*
 
 #### Features
-
 * Posts & Stories
 * Real-time Chat (WebSocket)
 * Notifications
@@ -32,7 +31,6 @@ Started programming in 2023 and genuinely enjoying the process.
 * Followers / Following
 
 #### Tech Stack
-
 * Spring Boot
 * PostgreSQL
 * Redis
@@ -42,7 +40,6 @@ Started programming in 2023 and genuinely enjoying the process.
 * Docker
 
 #### Services
-
 * User Service
 * Post Service
 * Chat Service
@@ -51,11 +48,14 @@ Started programming in 2023 and genuinely enjoying the process.
 
 </details>
 
+---
+
 <details>
-<summary>NelonFlix - *A video streaming platform with recommendations, watchlists, and content analytics.*</summary>
+<summary>NelonFlix</summary>
+
+> *A video streaming platform with recommendations, watchlists, and content analytics.*
 
 #### Features
-
 * Video Streaming
 * Watchlists
 * Recommendation Engine
@@ -63,7 +63,6 @@ Started programming in 2023 and genuinely enjoying the process.
 * User History
 
 #### Tech Stack
-
 * Spring Boot
 * PostgreSQL
 * Redis
@@ -72,14 +71,12 @@ Started programming in 2023 and genuinely enjoying the process.
 * Spring Batch
 
 #### Services
-
 * Video Service
 * Recommendation Service
 * Analytics Service
 * User Service
 
 #### Advanced Features
-
 * Video Processing Pipeline
 * CDN Simulation
 * View Analytics
@@ -87,11 +84,14 @@ Started programming in 2023 and genuinely enjoying the process.
 
 </details>
 
+---
+
 <details>
-<summary>NelonLearn - *An online learning platform with courses, quizzes, progress tracking, and certificates.*</summary>
+<summary>NelonLearn</summary>
+
+> *An online learning platform with courses, quizzes, progress tracking, and certificates.*
 
 #### Features
-
 * Online Courses
 * Quizzes & Exams
 * Progress Tracking
@@ -99,7 +99,6 @@ Started programming in 2023 and genuinely enjoying the process.
 * AI Tutor
 
 #### Services
-
 * Course Service
 * Quiz Service
 * Certificate Service
@@ -108,11 +107,14 @@ Started programming in 2023 and genuinely enjoying the process.
 
 </details>
 
+---
+
 <details>
-<summary>NelonEcom - *A modern e-commerce marketplace with payments, inventory management, and order tracking.*</summary>
+<summary>NelonEcom</summary>
+
+> *A modern e-commerce marketplace with payments, inventory management, and order tracking.*
 
 #### Features
-
 * Product Catalog
 * Shopping Cart
 * Payments
@@ -120,25 +122,26 @@ Started programming in 2023 and genuinely enjoying the process.
 * Inventory Management
 
 #### Services
-
 * Product Service
 * Order Service
 * Payment Service
 * Inventory Service
 
 #### Architecture
-
 * Event-Driven Architecture
 * Kafka Integration
 * Distributed Transactions
 
 </details>
 
+---
+
 <details>
-<summary>NelonGame - *A gaming platform with leaderboards, achievements, matchmaking, and player profiles.*</summary>
+<summary>NelonGame</summary>
+
+> *A gaming platform with leaderboards, achievements, matchmaking, and player profiles.*
 
 #### Features
-
 * Matchmaking
 * Leaderboards
 * Achievements
@@ -146,7 +149,6 @@ Started programming in 2023 and genuinely enjoying the process.
 * Real-time Gameplay
 
 #### Services
-
 * Matchmaking Service
 * Ranking Service (ELO)
 * Tournament Service
@@ -154,8 +156,12 @@ Started programming in 2023 and genuinely enjoying the process.
 
 </details>
 
+---
+
 <details>
-<summary>NelonBank - *A digital banking system with accounts, transactions, cards, and fraud detection.*</summary>
+<summary>NelonBank</summary>
+
+> *A digital banking system with accounts, transactions, cards, and fraud detection.*
 
 #### Features
 * Account Management
@@ -185,8 +191,12 @@ Started programming in 2023 and genuinely enjoying the process.
 
 </details>
 
+---
+
 <details>
-<summary>NelonJobs - *A job board platform with resumes, applications, and recruiter tools.*</summary>
+<summary>NelonJobs</summary>
+
+> *A job board platform with resumes, applications, and recruiter tools.*
 
 #### Features
 * Job Listings & Search
@@ -217,8 +227,12 @@ Started programming in 2023 and genuinely enjoying the process.
 
 </details>
 
+---
+
 <details>
-<summary>NelonTracker - *A personal finance and expense tracking application with analytics dashboards.*</summary>
+<summary>NelonTracker</summary>
+
+> *A personal finance and expense tracking application with analytics dashboards.*
 
 #### Features
 * Expense & Income Tracking
@@ -247,8 +261,12 @@ Started programming in 2023 and genuinely enjoying the process.
 
 </details>
 
+---
+
 <details>
-<summary>NelonCloud - *A cloud file storage platform with sharing, synchronization, and version control.*</summary>
+<summary>NelonCloud</summary>
+
+> *A cloud file storage platform with sharing, synchronization, and version control.*
 
 #### Features
 * File Upload & Download
@@ -278,8 +296,12 @@ Started programming in 2023 and genuinely enjoying the process.
 
 </details>
 
+---
+
 <details>
-<summary>NelonRide - *A ride-hailing platform with real-time driver tracking and trip management.*</summary>
+<summary>NelonRide</summary>
+
+> *A ride-hailing platform with real-time driver tracking and trip management.*
 
 #### Features
 * Ride Booking
@@ -310,8 +332,12 @@ Started programming in 2023 and genuinely enjoying the process.
 
 </details>
 
+---
+
 <details>
-<summary>NelonCRM - *A customer relationship management system for sales pipelines and lead tracking.*</summary>
+<summary>NelonCRM</summary>
+
+> *A customer relationship management system for sales pipelines and lead tracking.*
 
 #### Features
 * Contact & Company Management
@@ -341,8 +367,12 @@ Started programming in 2023 and genuinely enjoying the process.
 
 </details>
 
+---
+
 <details>
-<summary>NelonTask - *A collaborative task and project management platform similar to Jira or Trello.*</summary>
+<summary>NelonTask</summary>
+
+> *A collaborative task and project management platform similar to Jira or Trello.*
 
 #### Features
 * Projects & Boards
