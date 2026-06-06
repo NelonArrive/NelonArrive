@@ -106,7 +106,7 @@ Started programming in 2023 and genuinely enjoying the process.
 </details>
 
 <details>
-<summary>NelonEcom</summary>
+<summary>NelonAmazon</summary>
 
 > *A modern e-commerce marketplace with payments, inventory management, and order tracking.*
 
@@ -283,40 +283,6 @@ Started programming in 2023 and genuinely enjoying the process.
 </details>
 
 <details>
-<summary>NelonRide</summary>
-
-> *A ride-hailing platform with real-time driver tracking and trip management.*
-
-#### Features
-* Ride Booking
-* Real-time Driver Tracking
-* Trip Management
-* Fare Calculation
-* Ratings & Reviews
-
-#### Tech Stack
-* Spring Boot
-* PostgreSQL
-* Redis
-* Kafka
-* WebSocket
-
-#### Services
-* Booking Service
-* Driver Service
-* Tracking Service
-* Payment Service
-* Rating Service
-
-#### Advanced Features
-* Real-time Location Updates (WebSocket)
-* Dynamic Fare Pricing
-* Driver Matchmaking Algorithm
-* Trip History & Analytics
-
-</details>
-
-<details>
 <summary>NelonCRM</summary>
 
 > *A customer relationship management system for sales pipelines and lead tracking.*
@@ -385,20 +351,19 @@ Started programming in 2023 and genuinely enjoying the process.
 
 ## Portfolio Overview
 
-| Project         | Domain             | Architecture        | Status         |
-| --------------- | ------------------ | ------------------- | -------------- |
-| 🎬 NelonFlix    | Video Streaming    | Microservices       | 🚧 In Progress |
-| 📸 NelonGram    | Social Network     | Microservices       | 📌 Planned     |
-| 🎓 NelonLearn   | E-Learning         | Microservices       | 📌 Planned     |
-| 🛒 NelonEcom    | E-Commerce         | Event-Driven        | 📌 Planned     |
-| 🎮 NelonGame    | Gaming Platform    | Real-Time Services  | 📌 Planned     |
-| 🏦 NelonBank    | Digital Banking    | Distributed Systems | 💡 Idea        |
-| 💼 NelonJobs    | Recruitment        | Microservices       | 💡 Idea        |
-| 📊 NelonTracker | Finance            | Monolith / Modular  | 💡 Idea        |
-| ☁️ NelonCloud   | Cloud Storage      | Distributed Systems | 💡 Idea        |
-| 🚕 NelonRide    | Transportation     | Event-Driven        | 💡 Idea        |
-| 🤝 NelonCRM     | CRM                | Modular Monolith    | 💡 Idea        |
-| 📋 NelonTask    | Project Management | Microservices       | 💡 Idea        |
+| Project      | Domain             | Architecture        | Status         |
+| ------------ | -------------------| ------------------- | -------------- |
+| NelonFlix    | Video Streaming    | Microservices       | 🚧 In Progress |
+| NelonGram    | Social Network     | Microservices       | 📌 Planned     |
+| NelonLearn   | E-Learning         | Microservices       | 📌 Planned     |
+| NelonAmazon  | E-Commerce         | Event-Driven        | 📌 Planned     |
+| NelonGame    | Gaming Platform    | Real-Time Services  | 📌 Planned     |
+| NelonBank    | Digital Banking    | Distributed Systems | 💡 Idea        |
+| NelonJobs    | Recruitment        | Microservices       | 💡 Idea        |
+| NelonTracker | Finance            | Monolith / Modular  | 💡 Idea        |
+| NelonCloud   | Cloud Storage      | Distributed Systems | 💡 Idea        |
+| NelonCRM     | CRM                | Modular Monolith    | 💡 Idea        |
+| NelonPomo    | Project Management | Microservices       | 💡 Idea        |
 
 ## Connect
 
