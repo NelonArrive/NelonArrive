@@ -316,7 +316,7 @@ Started programming in 2023 and genuinely enjoying the process.
 </details>
 
 <details>
-<summary>NelonTask</summary>
+<summary>NelonPomo</summary>
 
 > *A collaborative task and project management platform similar to Jira or Trello.*
 
@@ -353,6 +353,7 @@ Started programming in 2023 and genuinely enjoying the process.
 
 | Project      | Status         |
 | ------------ | -------------- |
+| NelonShift   | 🚧 In Progress |
 | NelonFlix    | 🚧 In Progress |
 | NelonGram    | 📌 Planned     |
 | NelonLearn   | 📌 Planned     |
