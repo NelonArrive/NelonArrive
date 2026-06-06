@@ -351,19 +351,19 @@ Started programming in 2023 and genuinely enjoying the process.
 
 ## Portfolio Overview
 
-| Project      | Domain             | Architecture        | Status         |
-| ------------ | -------------------| ------------------- | -------------- |
-| NelonFlix    | Video Streaming    | Microservices       | 🚧 In Progress |
-| NelonGram    | Social Network     | Microservices       | 📌 Planned     |
-| NelonLearn   | E-Learning         | Microservices       | 📌 Planned     |
-| NelonAmazon  | E-Commerce         | Event-Driven        | 📌 Planned     |
-| NelonGame    | Gaming Platform    | Real-Time Services  | 📌 Planned     |
-| NelonBank    | Digital Banking    | Distributed Systems | 💡 Idea        |
-| NelonJobs    | Recruitment        | Microservices       | 💡 Idea        |
-| NelonTracker | Finance            | Monolith / Modular  | 💡 Idea        |
-| NelonCloud   | Cloud Storage      | Distributed Systems | 💡 Idea        |
-| NelonCRM     | CRM                | Modular Monolith    | 💡 Idea        |
-| NelonPomo    | Project Management | Microservices       | 💡 Idea        |
+| Project      | Status         |
+| ------------ | -------------- |
+| NelonFlix    | 🚧 In Progress |
+| NelonGram    | 📌 Planned     |
+| NelonLearn   | 📌 Planned     |
+| NelonAmazon  | 📌 Planned     |
+| NelonGame    | 📌 Planned     |
+| NelonBank    | 💡 Idea        |
+| NelonJobs    | 💡 Idea        |
+| NelonTracker | 💡 Idea        |
+| NelonCloud   | 💡 Idea        |
+| NelonCRM     | 💡 Idea        |
+| NelonPomo    | 💡 Idea        |
 
 ## Connect
 
